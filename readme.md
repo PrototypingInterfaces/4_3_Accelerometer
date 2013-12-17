@@ -1,5 +1,5 @@
 This Patch was developed with:
-* vvvv_45beta31.2
-* TouchOSC (IOS, I Pad2)
-* TouchOSC (Android 4.3, Nexus 4-LG)
-* OSCDroid (Android 2.1, HTC Legend)
+- vvvv_45beta30.2
+- TouchOSC (IOS, I Pad2)
+- TouchOSC (Android 4.3, Nexus 4-LG)
+- OSCDroid (Android 2.1, HTC Legend)
